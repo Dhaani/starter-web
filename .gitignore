@@ -1,3 +1,4 @@
 .ext
 logs/
 *.log
+*.orig
