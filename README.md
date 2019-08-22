@@ -20,5 +20,5 @@
 
  ### Copyright
 
- 2019 Git.Training.
+ 2019 Git.Training.All Rights Reserved. 
 
