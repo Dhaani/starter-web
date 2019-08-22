@@ -8,6 +8,7 @@
 # THANKS
 
     everyone
+    Please check this course if you want to learn GIT.
 
 # TECHNOLOGY COLOPHON
 
