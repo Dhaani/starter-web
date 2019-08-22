@@ -14,3 +14,7 @@
  
  This is a sample web project, deployment can be on any web server or even local file system.
 
+ ### Copyright
+
+ 2019 Git.Training.
+
